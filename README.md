@@ -1,4 +1,6 @@
-<img width="1038" height="894" alt="image" src="https://github.com/user-attachments/assets/dd3825f0-260d-4143-9633-f93cd0045805" /># 🏛️ MUSEA — Digital Museum Experience
+<img width="948" height="442" alt="image" src="https://github.com/user-attachments/assets/2dc1b35c-cf75-4b0b-a7e0-3e8ca892f816" />
+
+# 🏛️ MUSEA — Digital Museum Experience
 
 > **History deserves to be experienced.**
 
@@ -44,13 +46,12 @@ MUSEA is designed for:
 
 ### 🚀 Live Demo
 
-**[Visit MUSEA Live →](YOUR_VERCEL_URL_HERE)**
-
-> Replace `YOUR_VERCEL_URL_HERE` with the actual Vercel URL after deployment.
+https://musea-digital-museum.vercel.app
 
 ### 💻 GitHub Repository
 
-**[View Source Code →](YOUR_GITHUB_REPOSITORY_URL_HERE)**
+
+https://github.com/marium101/musea-digital-museum
 
 ---
 
